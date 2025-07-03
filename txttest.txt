@@ -3,3 +3,5 @@ hello
 
 welcome to git!!
 Excited to get started, here are a few tips.
+
+my name is Sandra. i have a brother and a  sister.
