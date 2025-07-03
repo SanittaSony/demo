@@ -1,1 +1,5 @@
 new world
+hello
+
+welcome to git!!
+Excited to get started, here are a few tips.
